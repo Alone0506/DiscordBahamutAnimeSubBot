@@ -15,12 +15,11 @@
 - 你的Discord ID (設置為環境變數`BOT_AUTHOR_ID`)
 
 ## 安裝與部署
-1. 複製此存儲庫：
+1. 下載此存儲庫：
    ```sh
    git clone https://github.com/Alone0506/DiscordBahamutAnimeSubBot.git
-   cd your-repo-name
    ```
-2. 安裝所需的套件：
+2. 安裝所需套件：
    ```sh
    pip install -r requirements.txt
    ```
