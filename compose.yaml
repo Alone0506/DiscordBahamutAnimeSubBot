@@ -1,0 +1,12 @@
+services:
+  bot:
+    image: 'discord_bahamut_anime_sub_bot'
+    build:
+      context: .
+    volumes:
+      - db:/app/db
+      - log:/app/log
+volumes:
+  db:
+  log:
+  
