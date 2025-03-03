@@ -36,6 +36,11 @@
    python bot.py
    ```
 
+## 部屬到雲端
+此機器人目前已上傳到 Docker Hub 並在 Synology Nas 上運作, 操作方式見下列文章:
+1. 打包成 image 並上傳到 Docker Hub (還在寫)
+2. 利用 Synology 的 Container Manager 下載 Docker Hub 的 image 後部屬 (也還在寫)
+
 ## 指令列表
 | 指令                    | 功能                                      |
 |-------------------------|-----------------------------------------|
@@ -44,8 +49,3 @@
 | `/anime_sub_list`     | 查看你的訂閱動漫列表                     |
 | `/anime operation:<Subscribe/Unsubscribe> anime_name:<name>` | 訂閱或取消訂閱指定動漫 |
 | `/anime_unsub_all`    | 取消訂閱所有動漫                         |
-
-## 部屬到雲端
-此機器人目前已上傳到 Docker Hub 並在 Synology Nas 上運作, 操作方式見下列文章:
-1. 打包成 image 並上傳到 Docker Hub (還在寫)
-2. 利用 Synology 的 Container Manager 下載 Docker Hub 的 image 後部屬 (也還在寫)
