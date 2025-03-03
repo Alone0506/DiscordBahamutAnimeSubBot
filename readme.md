@@ -1,4 +1,4 @@
-# Discord Bot - 動漫更新通知機器人
+# Discord Bot - 巴哈姆特動漫瘋更新通知
 
 ## 功能
 - 從 [巴哈姆特動畫瘋](https://ani.gamer.com.tw/) 獲取最新的動漫更新資訊
