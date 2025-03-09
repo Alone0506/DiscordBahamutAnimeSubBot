@@ -11,7 +11,7 @@
 ## 需求條件
 部屬機器人前，準備以下工具:
 - Python 3.11.9
-- Discord 機器人 Token (設置為環境變數 `DC_TOKEN`)
+- Discord 機器人 Token (設置為環境變數 `BOT_TOKEN`)
 - 你的Discord ID (設置為環境變數`BOT_AUTHOR_ID`)
 
 ## 安裝與部署
@@ -27,7 +27,7 @@
    
     windows: 環境變數 -> 系統變數 -> 新增
     ```
-    DC_TOKEN = 你的機器人Token
+    BOT_TOKEN = 你的機器人Token
     BOT_AUTHOR_ID = 你的Discord ID
     ```
 4. 啟動機器人：
