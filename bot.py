@@ -9,7 +9,7 @@ from discord.ext import commands
 
 
 BOT_AUTHOR_ID = int(os.getenv("BOT_AUTHOR_ID", "0"))
-DC_TOKEN = os.getenv("DC_TOKEN", "")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 
 ########################### setting log ###########################
 folder_path = Path(__file__).parent / "log" / "bot"
@@ -56,7 +56,7 @@ async def main():
     async with bot:
         await bot.load_extension(f"cogs.main")
         await bot.load_extension(f"cogs.bahamut")
-        await bot.start(DC_TOKEN)
+        await bot.start(BOT_TOKEN)
 
 if __name__ == "__main__":
     asyncio.run(main())
