@@ -1,18 +1,15 @@
 import json
 from pathlib import Path
 
-INFO_FILE_PATH = Path(__file__).parent.parent / 'db/bahamut_web_info.json'
 
 class BahamutDB:
-    def __init__(self):
-        try:
-            with INFO_FILE_PATH.open('a+', encoding='utf-8') as f:
-                f.seek(0)
-                json.load(f)
-        except:
-            print("can't read the bahamut file")
-            with INFO_FILE_PATH.open('w', encoding='utf-8') as f:
-                json.dump({}, f, indent=4)
+    def __init__(self, anime2users_file_path: Path, user2animes_file_path: Path, bahamut_web_info_file_path: Path):
+        # for path in [anime2users_file_path, user2animes_file_path, bahamut_web_info_file_path]:
+        #     if not path.exists() or path.stat().st_size == 0:
+        #         with path.open('w', encoding='utf-8') as f:
+        #             json.dump({}, f, indent=4)
+                    
+        self.info_file_path = bahamut_web_info_file_path
     
     def save_infos(self, infos: dict[str, dict[str, str]]) -> None:
         """
@@ -22,7 +19,7 @@ class BahamutDB:
             infos data structure:
                 dict["naruto", dict["viewers": "200", "episode": "5", ...]...]
         """
-        with INFO_FILE_PATH.open('r+', encoding='utf-8') as f:
+        with self.info_file_path.open('r+', encoding='utf-8') as f:
             data = json.load(f)
             data['infos'] = dict((name, info) for name, info in infos.items())
             f.seek(0)
@@ -43,12 +40,12 @@ class BahamutDB:
                 ...
                 }
         """  
-        with INFO_FILE_PATH.open('r', encoding='utf-8') as f:
+        with self.info_file_path.open('r', encoding='utf-8') as f:
             data = json.load(f)
             return data.get('infos', {})
     
     def save_schedule(self, schedule: dict[str, list[list[str]]]) -> None:
-        with INFO_FILE_PATH.open('r+', encoding='utf-8') as f:
+        with self.info_file_path.open('r+', encoding='utf-8') as f:
             data = json.load(f)
             data['schedule'] = schedule
             f.seek(0)
@@ -64,7 +61,7 @@ class BahamutDB:
                 ...
             ]
         """
-        with INFO_FILE_PATH.open('r', encoding='utf-8') as f:
+        with self.info_file_path.open('r', encoding='utf-8') as f:
             data = json.load(f)
             return data.get('schedule', "")
         

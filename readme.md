@@ -37,8 +37,8 @@
 
 ## 部屬到雲端
 此機器人目前已上傳到 Docker Hub 並在 Synology Nas 上運作, 操作方式見下列文章:
-1. 打包成 image 並上傳到 Docker Hub (還在寫)
-2. 利用 Synology 的 Container Manager 下載 Docker Hub 的 image 後部屬 (也還在寫)
+1. [打包成 image 並上傳到 Docker Hub](https://ted.familyds.com/2025/03/10/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8-docker-%e6%89%93%e5%8c%85-discord-bot-%e4%b8%a6%e7%99%bc%e4%bd%88%e5%88%b0-docker-hub/)
+2. [利用 Synology 的 Container Manager 下載 Docker Hub 的 image 後部屬](https://ted.familyds.com/2025/03/10/%e4%bd%bf%e7%94%a8-synology-container-manager-%e9%83%a8%e5%b1%ac-discord-bot/)
 
 ## 指令列表
 | 指令                    | 功能                                      |

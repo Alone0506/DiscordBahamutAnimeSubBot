@@ -1,356 +1,356 @@
 {
     "infos": {
-        "\u9752\u4e4b\u58ec\u751f\u6d6a": {
-            "name": "\u9752\u4e4b\u58ec\u751f\u6d6a",
-            "viewers": "15\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42391",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/72/f150cafe6b2c7e3f69d21754e31tazc5.JPG",
-            "update_time": "03/14 (\u516d) 18:00"
-        },
-        "\u51cd\u724c~\u5730\u4e0b\u9ebb\u5c07\u9b25\u724c\u9304~": {
-            "name": "\u51cd\u724c~\u5730\u4e0b\u9ebb\u5c07\u9b25\u724c\u9304~",
-            "viewers": "55.2\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42393",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/62/5b9f00dd3bb3a0a55cac3238cc1taa25.JPG",
-            "update_time": "03/01 (\u516d) 02:23"
-        },
-        "\u4e00\u687f\u9752\u7a7a": {
-            "name": "\u4e00\u687f\u9752\u7a7a",
-            "viewers": "6.4\u842c",
-            "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42395",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/61/c94d991fa44b8827b86f780ac81taa15.JPG",
-            "update_time": "03/01 (\u516d) 01:00"
-        },
-        "\u96d6\u7136\u662f\u516c\u6703\u7684\u6ac3\u6aaf\u5c0f\u59d0\uff0c\u4f46\u56e0\u70ba\u4e0d\u60f3\u52a0\u73ed\u6240\u4ee5\u6253\u7b97\u7368\u81ea\u8a0e\u4f10\u8ff7\u5bae\u982d\u76ee": {
-            "name": "\u96d6\u7136\u662f\u516c\u6703\u7684\u6ac3\u6aaf\u5c0f\u59d0\uff0c\u4f46\u56e0\u70ba\u4e0d\u60f3\u52a0\u73ed\u6240\u4ee5\u6253\u7b97\u7368\u81ea\u8a0e\u4f10\u8ff7\u5bae\u982d\u76ee",
-            "viewers": "111.7\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42397",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/63/e9783430395c94b8ef4185d8fc1taa35.JPG",
-            "update_time": "03/01 (\u516d) 00:30"
-        },
-        "\u6211\u548c\u73ed\u4e0a\u6700\u8a0e\u53ad\u7684\u5973\u751f\u7d50\u5a5a\u4e86\u3002": {
-            "name": "\u6211\u548c\u73ed\u4e0a\u6700\u8a0e\u53ad\u7684\u5973\u751f\u7d50\u5a5a\u4e86\u3002",
-            "viewers": "67\u842c",
-            "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42399",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/65/877ba0a7ae754e64ebe03819d11taa55.JPG",
-            "update_time": "03/01 (\u516d) 00:00"
-        },
-        "\u6a5f\u52d5\u6230\u58eb\u92fc\u5f48 SEED FREEDOM": {
-            "name": "\u6a5f\u52d5\u6230\u58eb\u92fc\u5f48 SEED FREEDOM",
-            "viewers": "\u7d71\u8a08\u4e2d",
-            "episode": "",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42455",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/96/54e6cc4bf6cfe154c63a54379a1t8oo5.JPG",
-            "update_time": "03/01 (\u516d) 00:00"
-        },
-        "\u9ec3\u660f\u65c5\u5e97": {
-            "name": "\u9ec3\u660f\u65c5\u5e97",
-            "viewers": "26.3\u842c",
-            "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42403",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/71/dc39adbf68c334023e196a34661taab5.JPG",
-            "update_time": "02/28 (\u4e94) 22:30"
-        },
-        "FARMAGIA \u9b54\u8fb2\u50b3\u8a18": {
-            "name": "FARMAGIA \u9b54\u8fb2\u50b3\u8a18",
-            "viewers": "7.6\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42401",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/63/92439e970b17e0c0816ab982c91taz35.JPG",
-            "update_time": "02/28 (\u4e94) 22:30"
-        },
-        "\u6b61\u8fce\u4f86\u5230\u65e5\u672c\uff0c\u5996\u7cbe\u5c0f\u59d0\u3002": {
-            "name": "\u6b61\u8fce\u4f86\u5230\u65e5\u672c\uff0c\u5996\u7cbe\u5c0f\u59d0\u3002",
-            "viewers": "40.6\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42405",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/74/5b666000da1cab12042129cac11taze5.JPG",
-            "update_time": "02/28 (\u4e94) 22:00"
-        },
-        "\u795e\u528d\u95d6\u6c5f\u6e56 \u2015\u660e\u6cbb\u528d\u5ba2\u6d6a\u6f2b\u8b5a\u2015 \u4eac\u90fd\u52d5\u4e82": {
-            "name": "\u795e\u528d\u95d6\u6c5f\u6e56 \u2015\u660e\u6cbb\u528d\u5ba2\u6d6a\u6f2b\u8b5a\u2015 \u4eac\u90fd\u52d5\u4e82",
-            "viewers": "70.1\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42410",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/57/9dd3437da99e22fd8119ea7a981ta755.JPG",
-            "update_time": "02/28 (\u4e94) 01:35"
-        },
-        "\u7d42\u7a76\uff0c\u8207\u4f60\u76f8\u6200\u3002": {
-            "name": "\u7d42\u7a76\uff0c\u8207\u4f60\u76f8\u6200\u3002",
-            "viewers": "8.7\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42412",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/56/6adde5f96854b9f569de9ca66b1ta745.JPG",
-            "update_time": "02/28 (\u4e94) 01:00"
-        },
-        "\u4e00\u5146\uff04\u904a\u6232": {
-            "name": "\u4e00\u5146\uff04\u904a\u6232",
-            "viewers": "52.4\u842c",
-            "episode": "\u7b2c21\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42414",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/08/60d966ac3a894d9185e0e23aa91ta8k5.JPG",
-            "update_time": "02/28 (\u4e94) 00:58"
-        },
-        "MOMENTARY LILY \u524e\u90a3\u4e4b\u82b1": {
-            "name": "MOMENTARY LILY \u524e\u90a3\u4e4b\u82b1",
-            "viewers": "11.8\u842c",
-            "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42416",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/60/80898b9e202890d19ffd9d42fb1taa05.JPG",
-            "update_time": "02/28 (\u4e94) 00:30"
-        },
-        "\u4e2d\u5e74\u5927\u53d4\u8f49\u751f\u53cd\u6d3e\u5343\u91d1": {
-            "name": "\u4e2d\u5e74\u5927\u53d4\u8f49\u751f\u53cd\u6d3e\u5343\u91d1",
-            "viewers": "86.1\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42418",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/59/6466315229bfebf565fc53f8ce1ta9z5.JPG",
-            "update_time": "02/28 (\u4e94) 00:00"
-        },
-        "\u4e0d\u5e78\u8077\u696d\u3010\u9451\u5b9a\u58eb\u3011\u5176\u5be6\u662f\u6700\u5f37\u7684": {
-            "name": "\u4e0d\u5e78\u8077\u696d\u3010\u9451\u5b9a\u58eb\u3011\u5176\u5be6\u662f\u6700\u5f37\u7684",
-            "viewers": "67.4\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42420",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/58/b7164c3f2ba94a8f0a42579ae01ta9y5.JPG",
-            "update_time": "02/27 (\u56db) 22:30"
-        },
-        "Dr.STONE \u65b0\u77f3\u7d00 \u7b2c\u56db\u5b63": {
-            "name": "Dr.STONE \u65b0\u77f3\u7d00 \u7b2c\u56db\u5b63",
-            "viewers": "58.5\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42424",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/55/f801d956584cdf78cee04cd3501ta735.JPG",
-            "update_time": "02/27 (\u56db) 22:00"
-        },
-        "BanG Dream! Ave Mujica": {
-            "name": "BanG Dream! Ave Mujica",
-            "viewers": "122.5\u842c",
-            "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42422",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/47/10a1571528b8b15cb225a51c8c1tacf5.JPG",
-            "update_time": "02/27 (\u56db) 22:00"
-        },
-        "\u5929\u4e45\u9df9\u592e\u7684\u63a8\u7406\u75c5\u6b77\u8868": {
-            "name": "\u5929\u4e45\u9df9\u592e\u7684\u63a8\u7406\u75c5\u6b77\u8868",
-            "viewers": "39.3\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42548",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/48/b7ffa91ec6c4b818388424bbe61t9t05.JPG",
-            "update_time": "02/27 (\u56db) 01:00"
-        },
-        "\u9752\u6625\u7279\u8abf\u8702\u871c\u6ab8\u6aac\u8607\u6253": {
-            "name": "\u9752\u6625\u7279\u8abf\u8702\u871c\u6ab8\u6aac\u8607\u6253",
-            "viewers": "16.3\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42426",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/59/0e3b07a8262c8cb15182328d421t9qj5.JPG",
-            "update_time": "02/27 (\u56db) 00:55"
-        },
-        "Re\uff1a\u5f9e\u96f6\u958b\u59cb\u7684\u7570\u4e16\u754c\u751f\u6d3b \u7b2c\u4e09\u5b63": {
-            "name": "Re\uff1a\u5f9e\u96f6\u958b\u59cb\u7684\u7570\u4e16\u754c\u751f\u6d3b \u7b2c\u4e09\u5b63",
-            "viewers": "285.6\u842c",
-            "episode": "\u7b2c12\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42428",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/28/fe5bba634a56e827cb3b1f90171t9sg5.JPG",
-            "update_time": "02/26 (\u4e09) 22:30"
-        },
-        "\u9072\u65e9\u662f\u6700\u5f37\u7684\u934a\u91d1\u8853\u5e2b\uff1f": {
-            "name": "\u9072\u65e9\u662f\u6700\u5f37\u7684\u934a\u91d1\u8853\u5e2b\uff1f",
-            "viewers": "101.5\u842c",
-            "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42430",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/00/92d659bb6aea2dd1d527b7cca61t9ro5.JPG",
-            "update_time": "02/26 (\u4e09) 21:30"
-        },
-        "\u5728\u5730\u4e0b\u57ce\u5c0b\u6c42\u9082\u9005\u662f\u5426\u641e\u932f\u4e86\u4ec0\u9ebc \u7b2c\u4e94\u5b63": {
-            "name": "\u5728\u5730\u4e0b\u57ce\u5c0b\u6c42\u9082\u9005\u662f\u5426\u641e\u932f\u4e86\u4ec0\u9ebc \u7b2c\u4e94\u5b63",
-            "viewers": "270.9\u842c",
-            "episode": "\u7b2c14\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=41971",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/98/b1d96d17ec047e86f97bdc8c1d1t9rm5.JPG",
-            "update_time": "02/26 (\u4e09) 21:00"
-        },
-        "\u7fa4\u82b1\u7dbb\u653e\u3001\u5f77\u5982\u4fee\u7f85": {
-            "name": "\u7fa4\u82b1\u7dbb\u653e\u3001\u5f77\u5982\u4fee\u7f85",
-            "viewers": "15.8\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42162",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/95/753329eb1980610da907f51d441t9av5.JPG",
-            "update_time": "02/26 (\u4e09) 01:35"
-        },
         "\u7d50\u7de3\u7518\u795e\u795e\u793e": {
             "name": "\u7d50\u7de3\u7518\u795e\u795e\u793e",
-            "viewers": "145.3\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42163",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/27/3f93182c327634f30bebf3392e1t98z5.JPG",
-            "update_time": "02/25 (\u4e8c) 23:00"
+            "viewers": "152.5\u842c",
+            "episode": "\u7b2c22\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42683",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/33/bb4d523e10caf645988b993d391tenl5.JPG",
+            "update_time": "03/11 (\u4e8c) 23:00"
         },
         "\u5996\u602a\u5b78\u6821\u7684\u83dc\u9ce5\u8001\u5e2b": {
             "name": "\u5996\u602a\u5b78\u6821\u7684\u83dc\u9ce5\u8001\u5e2b",
-            "viewers": "75\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42434",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/25/b00e8db35b33608a71a611a08f1t98x5.JPG",
-            "update_time": "02/25 (\u4e8c) 22:00"
+            "viewers": "78.9\u842c",
+            "episode": "\u7b2c22\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42686",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/26/72e7c8cda7001c065be0486a151tene5.JPG",
+            "update_time": "03/11 (\u4e8c) 22:00"
         },
         "\u9b54\u6cd5\u4f7f\u7684\u7d04\u5b9a": {
             "name": "\u9b54\u6cd5\u4f7f\u7684\u7d04\u5b9a",
-            "viewers": "14.8\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42102",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/06/86ba8262284b63100af28579851t8oy5.JPG",
-            "update_time": "02/24 (\u4e00) 22:30"
+            "viewers": "16.2\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42447",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/09/d94e5cbdc4486d4f5f61632f921te695.JPG",
+            "update_time": "03/10 (\u4e00) 22:30"
         },
         "\u5e73\u51e1\u4e0a\u73ed\u65cf\u5230\u7570\u4e16\u754c\u7576\u4e0a\u4e86\u56db\u5929\u738b\u7684\u6545\u4e8b": {
             "name": "\u5e73\u51e1\u4e0a\u73ed\u65cf\u5230\u7570\u4e16\u754c\u7576\u4e0a\u4e86\u56db\u5929\u738b\u7684\u6545\u4e8b",
-            "viewers": "88.8\u842c",
-            "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42100",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/84/fd321058a25d076938fab889691t8oc5.JPG",
-            "update_time": "02/24 (\u4e00) 22:30"
+            "viewers": "99.8\u842c",
+            "episode": "\u7b2c11\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42445",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/08/d1e2bc1af6b76ea77e4fe90e6e1te685.JPG",
+            "update_time": "03/10 (\u4e00) 22:30"
         },
         "\u9019\u516c\u53f8\u6709\u6211\u559c\u6b61\u7684\u4eba": {
             "name": "\u9019\u516c\u53f8\u6709\u6211\u559c\u6b61\u7684\u4eba",
-            "viewers": "37.5\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42104",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/83/cb5863068759bb8e3b51db4bcf1t8ob5.JPG",
-            "update_time": "02/24 (\u4e00) 22:00"
+            "viewers": "43\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42449",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/07/44d5aa99515e135656b24b1d3b1te675.JPG",
+            "update_time": "03/10 (\u4e00) 22:00"
         },
         "\u8f49\u751f\u6210\u8c93\u54aa\u7684\u5927\u53d4": {
             "name": "\u8f49\u751f\u6210\u8c93\u54aa\u7684\u5927\u53d4",
-            "viewers": "50.6\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42105",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/82/d5da4724fc80e2d8b2304afb7d1t8oa5.JPG",
-            "update_time": "02/24 (\u4e00) 13:50"
-        },
-        "\u91d1\u8089\u4eba \u5b8c\u7f8e\u8d85\u4eba\u59cb\u7956\u7bc7 Season 2": {
-            "name": "\u91d1\u8089\u4eba \u5b8c\u7f8e\u8d85\u4eba\u59cb\u7956\u7bc7 Season 2",
-            "viewers": "4.4\u842c",
-            "episode": "\u7b2c18\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42364",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/91/0234c23c752bacecd0b05ccdb61t8iz5.JPG",
-            "update_time": "02/23 (\u65e5) 23:30"
+            "viewers": "53.4\u842c",
+            "episode": "\u7b2c22\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42363",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/52/e65def5403b36161c361dcc2b81te4o5.JPG",
+            "update_time": "03/10 (\u4e00) 13:50"
         },
         "\u8d85\u8d85\u8d85\u8d85\u8d85\u559c\u6b61\u4f60\u7684 100 \u500b\u5973\u670b\u53cb": {
             "name": "\u8d85\u8d85\u8d85\u8d85\u8d85\u559c\u6b61\u4f60\u7684 100 \u500b\u5973\u670b\u53cb",
-            "viewers": "234.9\u842c",
-            "episode": "\u7b2c19\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42108",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/92/80325379e8100647c9b0170bbd1t8j05.JPG",
-            "update_time": "02/23 (\u65e5) 22:00"
+            "viewers": "251.6\u842c",
+            "episode": "\u7b2c21\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42368",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/27/34087cdf0bf8c91833afcbedd91te175.JPG",
+            "update_time": "03/09 (\u65e5) 22:00"
         },
         "\u6211\u60f3\u8e7a\u6389\u592a\u5b50\u5983\u57f9\u8a13": {
             "name": "\u6211\u60f3\u8e7a\u6389\u592a\u5b50\u5983\u57f9\u8a13",
-            "viewers": "16.6\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42110",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/18/9c11e84259ea7f43028adaf6a71t85u5.JPG",
-            "update_time": "02/23 (\u65e5) 21:00"
-        },
-        "\u9b54\u795e\u5275\u9020\u50b3": {
-            "name": "\u9b54\u795e\u5275\u9020\u50b3",
-            "viewers": "6.5\u842c",
-            "episode": "\u7b2c7\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42371",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/38/042299198892dc433b645b4d541t7y25.JPG",
-            "update_time": "02/23 (\u65e5) 17:00"
+            "viewers": "18.7\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42370",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/65/84343a251a5cf3d489597b72cd1tdod5.JPG",
+            "update_time": "03/09 (\u65e5) 21:00"
         },
         "\u9999\u683c\u91cc\u62c9\u30fb\u958b\u62d3\u7570\u5883\uff5e\u7cde\u4f5c\u7375\u624b\u6311\u6230\u795e\u4f5c\uff5e \u7b2c\u4e8c\u5b63": {
             "name": "\u9999\u683c\u91cc\u62c9\u30fb\u958b\u62d3\u7570\u5883\uff5e\u7cde\u4f5c\u7375\u624b\u6311\u6230\u795e\u4f5c\uff5e \u7b2c\u4e8c\u5b63",
-            "viewers": "404.6\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42115",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/90/e709411b1e94d744ecca8852651t8iy5.JPG",
-            "update_time": "02/23 (\u65e5) 16:30"
+            "viewers": "440.1\u842c",
+            "episode": "\u7b2c22\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42377",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/26/41e36fbd02650e68984a1f4f901te165.JPG",
+            "update_time": "03/09 (\u65e5) 17:00"
         },
         "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u541b \u7b2c\u4e8c\u5b63": {
             "name": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u541b \u7b2c\u4e8c\u5b63",
-            "viewers": "21.8\u842c",
-            "episode": "\u7b2c7\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42113",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/89/a5f7172f11bf97cc9d70c9ff351t8ix5.JPG",
-            "update_time": "02/23 (\u65e5) 16:30"
+            "viewers": "26.6\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42375",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/25/d890213eb4b3b0c079556916bf1te155.JPG",
+            "update_time": "03/09 (\u65e5) 17:00"
+        },
+        "\u9b54\u795e\u5275\u9020\u50b3": {
+            "name": "\u9b54\u795e\u5275\u9020\u50b3",
+            "viewers": "7.3\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42373",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/64/19c272908e4322326dfb9cf61a1tdoc5.JPG",
+            "update_time": "03/09 (\u65e5) 17:00"
         },
         "\u9752\u4e4b\u9a45\u9b54\u5e2b \u7d42\u591c\u7bc7": {
             "name": "\u9752\u4e4b\u9a45\u9b54\u5e2b \u7d42\u591c\u7bc7",
-            "viewers": "19.8\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42119",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/74/d8297515ce57ee59b8980d2b9c1t8ii5.JPG",
-            "update_time": "02/23 (\u65e5) 01:00"
+            "viewers": "24.9\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42381",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/36/4e72791012a4fe2f7c1b145ce11tdyo5.JPG",
+            "update_time": "03/09 (\u65e5) 01:00"
         },
         "\u5728\u6c96\u7e69\u559c\u6b61\u4e0a\u7684\u5973\u5b69\u65b9\u8a00\u8b1b\u5f97\u592a\u904e\u4ee4\u4eba\u56f0\u64fe": {
             "name": "\u5728\u6c96\u7e69\u559c\u6b61\u4e0a\u7684\u5973\u5b69\u65b9\u8a00\u8b1b\u5f97\u592a\u904e\u4ee4\u4eba\u56f0\u64fe",
-            "viewers": "37.4\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42117",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/75/b80a07c39f2e6458717ac63bbe1t8ij5.JPG",
-            "update_time": "02/23 (\u65e5) 01:00"
+            "viewers": "44.1\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42379",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/37/597f029de23b1ea618d11a2d6e1tdyp5.JPG",
+            "update_time": "03/09 (\u65e5) 01:00"
         },
         "\u96e2\u958b A \u7d1a\u968a\u4f0d\u7684\u6211\uff0c\u548c\u5f9e\u524d\u7684\u5f1f\u5b50\u5f80\u8ff7\u5bae\u6df1\u8655\u9081\u9032": {
             "name": "\u96e2\u958b A \u7d1a\u968a\u4f0d\u7684\u6211\uff0c\u548c\u5f9e\u524d\u7684\u5f1f\u5b50\u5f80\u8ff7\u5bae\u6df1\u8655\u9081\u9032",
-            "viewers": "72.5\u842c",
-            "episode": "\u7b2c7\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42125",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/71/202dee2a01ec6638bd3fcb97221t8if5.JPG",
-            "update_time": "02/23 (\u65e5) 00:30"
+            "viewers": "91.3\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42387",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/35/f8ca4482e6d1131ccaaa9a76c81tdyn5.JPG",
+            "update_time": "03/09 (\u65e5) 00:30"
         },
         "\u6211\u7368\u81ea\u5347\u7d1a \u7b2c\u4e8c\u5b63 \uff0d\u8d77\u65bc\u95c7\u5f71\uff0d": {
             "name": "\u6211\u7368\u81ea\u5347\u7d1a \u7b2c\u4e8c\u5b63 \uff0d\u8d77\u65bc\u95c7\u5f71\uff0d",
-            "viewers": "324.1\u842c",
-            "episode": "\u7b2c20\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42123",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/15/cd02bcf5591378745c5b68b87f1t85r5.JPG",
-            "update_time": "02/23 (\u65e5) 00:30"
+            "viewers": "407.5\u842c",
+            "episode": "\u7b2c22\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42385",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/97/9673f8d3590ddef63e6b482da81tdgx5.JPG",
+            "update_time": "03/09 (\u65e5) 00:30"
         },
         "\u6211\u8207\u5c3c\u7279\u5973\u5fcd\u8005\u7684\u83ab\u540d\u540c\u5c45\u751f\u6d3b": {
             "name": "\u6211\u8207\u5c3c\u7279\u5973\u5fcd\u8005\u7684\u83ab\u540d\u540c\u5c45\u751f\u6d3b",
-            "viewers": "31.6\u842c",
-            "episode": "\u7b2c8\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42121",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/39/c18106f919877ac51233bd847e1t7y35.JPG",
-            "update_time": "02/23 (\u65e5) 00:30"
+            "viewers": "35.7\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42383",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/89/3e528cfbbcfee94165c5d08ef91tdgp5.JPG",
+            "update_time": "03/09 (\u65e5) 00:30"
         },
         "UniteUp! \u773e\u661f\u9f4a\u805a -Uni:Birth-": {
             "name": "UniteUp! \u773e\u661f\u9f4a\u805a -Uni:Birth-",
-            "viewers": "2.5\u842c",
-            "episode": "\u7b2c7\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42127",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/73/c078c0ce2c7c474f35e9365f151t8ih5.JPG",
-            "update_time": "02/23 (\u65e5) 00:00"
+            "viewers": "2.8\u842c",
+            "episode": "\u7b2c8\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42388",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/39/09677e265a871eb358270c8efe1tdyr5.JPG",
+            "update_time": "03/09 (\u65e5) 00:00"
         },
         "S \u7d1a\u602a\u7378\u300a\u8c9d\u5e0c\u6469\u65af\u300b\u88ab\u8aa4\u8a8d\u6210\u5c0f\u8c93\uff0c\u6210\u70ba\u7cbe\u9748\u5973\u5b69\u7684\u9a0e\u58eb\uff08\u5bf5\u7269\uff09\u4e00\u8d77\u751f\u6d3b": {
             "name": "S \u7d1a\u602a\u7378\u300a\u8c9d\u5e0c\u6469\u65af\u300b\u88ab\u8aa4\u8a8d\u6210\u5c0f\u8c93\uff0c\u6210\u70ba\u7cbe\u9748\u5973\u5b69\u7684\u9a0e\u58eb\uff08\u5bf5\u7269\uff09\u4e00\u8d77\u751f\u6d3b",
-            "viewers": "99.9\u842c",
+            "viewers": "112\u842c",
+            "episode": "\u7b2c11\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42390",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/43/f5681333a545a248e3dd6def7f1tdyv5.JPG",
+            "update_time": "03/08 (\u516d) 22:00"
+        },
+        "\u9752\u4e4b\u58ec\u751f\u6d6a": {
+            "name": "\u9752\u4e4b\u58ec\u751f\u6d6a",
+            "viewers": "16.1\u842c",
+            "episode": "\u7b2c21\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42392",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/71/2e89dd984ed3c5c27b42331c2a1tdoj5.JPG",
+            "update_time": "03/08 (\u516d) 18:00"
+        },
+        "\u51cd\u724c~\u5730\u4e0b\u9ebb\u5c07\u9b25\u724c\u9304~": {
+            "name": "\u51cd\u724c~\u5730\u4e0b\u9ebb\u5c07\u9b25\u724c\u9304~",
+            "viewers": "60.1\u842c",
+            "episode": "\u7b2c21\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42394",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/40/9aa06e04bb10902d29a0638e821tdfc5.JPG",
+            "update_time": "03/08 (\u516d) 02:23"
+        },
+        "\u4e00\u687f\u9752\u7a7a": {
+            "name": "\u4e00\u687f\u9752\u7a7a",
+            "viewers": "7.7\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42396",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/39/e848dfbe042b765b1c31ea45bb1tdfb5.JPG",
+            "update_time": "03/08 (\u516d) 01:00"
+        },
+        "\u96d6\u7136\u662f\u516c\u6703\u7684\u6ac3\u6aaf\u5c0f\u59d0\uff0c\u4f46\u56e0\u70ba\u4e0d\u60f3\u52a0\u73ed\u6240\u4ee5\u6253\u7b97\u7368\u81ea\u8a0e\u4f10\u8ff7\u5bae\u982d\u76ee": {
+            "name": "\u96d6\u7136\u662f\u516c\u6703\u7684\u6ac3\u6aaf\u5c0f\u59d0\uff0c\u4f46\u56e0\u70ba\u4e0d\u60f3\u52a0\u73ed\u6240\u4ee5\u6253\u7b97\u7368\u81ea\u8a0e\u4f10\u8ff7\u5bae\u982d\u76ee",
+            "viewers": "137.2\u842c",
             "episode": "\u7b2c9\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42129",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/72/e88dc789b9b47252d64133f2c81t8ig5.JPG",
-            "update_time": "02/22 (\u516d) 22:00"
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42398",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/38/763d04cc80c030310b3f83a2251tdfa5.JPG",
+            "update_time": "03/08 (\u516d) 00:30"
+        },
+        "\u6211\u548c\u73ed\u4e0a\u6700\u8a0e\u53ad\u7684\u5973\u751f\u7d50\u5a5a\u4e86\u3002": {
+            "name": "\u6211\u548c\u73ed\u4e0a\u6700\u8a0e\u53ad\u7684\u5973\u751f\u7d50\u5a5a\u4e86\u3002",
+            "viewers": "80.3\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42400",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/37/8edbcd0180c00d98c889cff10c1tdf95.JPG",
+            "update_time": "03/08 (\u516d) 00:00"
+        },
+        "\u9ec3\u660f\u65c5\u5e97": {
+            "name": "\u9ec3\u660f\u65c5\u5e97",
+            "viewers": "31\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42404",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/73/9012387148d507077db1b0508a1td555.JPG",
+            "update_time": "03/07 (\u4e94) 22:30"
+        },
+        "FARMAGIA \u9b54\u8fb2\u50b3\u8a18": {
+            "name": "FARMAGIA \u9b54\u8fb2\u50b3\u8a18",
+            "viewers": "8.5\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42402",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/36/c6f4116a6f0bfc550890daad8e1tdf85.JPG",
+            "update_time": "03/07 (\u4e94) 22:30"
+        },
+        "\u6b61\u8fce\u4f86\u5230\u65e5\u672c\uff0c\u5996\u7cbe\u5c0f\u59d0\u3002": {
+            "name": "\u6b61\u8fce\u4f86\u5230\u65e5\u672c\uff0c\u5996\u7cbe\u5c0f\u59d0\u3002",
+            "viewers": "50.9\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42406",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/05/84b621aa4df58163f3097101711tdjx5.JPG",
+            "update_time": "03/07 (\u4e94) 22:00"
         },
         "\u5361\u7247\u6230\u9b25!! \u5148\u5c0e\u8005 Divinez \u7b2c\u4e09\u5b63\u300cDELUXE\u7bc7\u300d": {
             "name": "\u5361\u7247\u6230\u9b25!! \u5148\u5c0e\u8005 Divinez \u7b2c\u4e09\u5b63\u300cDELUXE\u7bc7\u300d",
-            "viewers": "1.2\u842c",
-            "episode": "\u7b2c6\u96c6",
-            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42148",
-            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/23/a48cd20d71f17fff385c1e12031t7xn5.JPG",
-            "update_time": "02/21 (\u4e94) 16:00"
+            "viewers": "1.4\u842c",
+            "episode": "\u7b2c7\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42407",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/59/fb2b6d07a7be8b85d0c9d495801tdfv5.JPG",
+            "update_time": "03/07 (\u4e94) 21:30"
+        },
+        "\u795e\u528d\u95d6\u6c5f\u6e56 \u2015\u660e\u6cbb\u528d\u5ba2\u6d6a\u6f2b\u8b5a\u2015 \u4eac\u90fd\u52d5\u4e82": {
+            "name": "\u795e\u528d\u95d6\u6c5f\u6e56 \u2015\u660e\u6cbb\u528d\u5ba2\u6d6a\u6f2b\u8b5a\u2015 \u4eac\u90fd\u52d5\u4e82",
+            "viewers": "74.6\u842c",
+            "episode": "\u7b2c21\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42411",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/51/6fb7f93992f1c53b817d1991871tctf5.JPG",
+            "update_time": "03/07 (\u4e94) 01:35"
+        },
+        "\u7d42\u7a76\uff0c\u8207\u4f60\u76f8\u6200\u3002": {
+            "name": "\u7d42\u7a76\uff0c\u8207\u4f60\u76f8\u6200\u3002",
+            "viewers": "10\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42413",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/50/f61ef93fff2a90b7bbea549ad11tcte5.JPG",
+            "update_time": "03/07 (\u4e94) 01:00"
+        },
+        "\u4e00\u5146\uff04\u904a\u6232": {
+            "name": "\u4e00\u5146\uff04\u904a\u6232",
+            "viewers": "56\u842c",
+            "episode": "\u7b2c22\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42415",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/64/1af737d22e7299bcbd4ac90eae1tcwk5.JPG",
+            "update_time": "03/07 (\u4e94) 00:58"
+        },
+        "MOMENTARY LILY \u524e\u90a3\u4e4b\u82b1": {
+            "name": "MOMENTARY LILY \u524e\u90a3\u4e4b\u82b1",
+            "viewers": "12.7\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42417",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/36/e2ef3a6ecae789be6b54f4aa891tcvs5.JPG",
+            "update_time": "03/07 (\u4e94) 00:30"
+        },
+        "\u4e2d\u5e74\u5927\u53d4\u8f49\u751f\u53cd\u6d3e\u5343\u91d1": {
+            "name": "\u4e2d\u5e74\u5927\u53d4\u8f49\u751f\u53cd\u6d3e\u5343\u91d1",
+            "viewers": "103.6\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42419",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/48/f725ec091eb6e1b3df4b06898a1tctc5.JPG",
+            "update_time": "03/07 (\u4e94) 00:00"
+        },
+        "\u4e0d\u5e78\u8077\u696d\u3010\u9451\u5b9a\u58eb\u3011\u5176\u5be6\u662f\u6700\u5f37\u7684": {
+            "name": "\u4e0d\u5e78\u8077\u696d\u3010\u9451\u5b9a\u58eb\u3011\u5176\u5be6\u662f\u6700\u5f37\u7684",
+            "viewers": "78.9\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42421",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/34/1cc086e01bb71c88f517800a451td1a5.JPG",
+            "update_time": "03/06 (\u56db) 22:30"
+        },
+        "Dr.STONE \u65b0\u77f3\u7d00 \u7b2c\u56db\u5b63": {
+            "name": "Dr.STONE \u65b0\u77f3\u7d00 \u7b2c\u56db\u5b63",
+            "viewers": "70.5\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42425",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/49/5dfe86f2afa53ee9f5db4fa7481tctd5.JPG",
+            "update_time": "03/06 (\u56db) 22:00"
+        },
+        "BanG Dream! Ave Mujica": {
+            "name": "BanG Dream! Ave Mujica",
+            "viewers": "140.3\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42423",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/08/5b76467af93ceaa466fc56698d1td3c5.JPG",
+            "update_time": "03/06 (\u56db) 22:00"
+        },
+        "\u5929\u4e45\u9df9\u592e\u7684\u63a8\u7406\u75c5\u6b77\u8868": {
+            "name": "\u5929\u4e45\u9df9\u592e\u7684\u63a8\u7406\u75c5\u6b77\u8868",
+            "viewers": "44\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42549",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/37/dc405916653c353f0d5ad57d711tcf55.JPG",
+            "update_time": "03/06 (\u56db) 01:00"
+        },
+        "\u9752\u6625\u7279\u8abf\u8702\u871c\u6ab8\u6aac\u8607\u6253": {
+            "name": "\u9752\u6625\u7279\u8abf\u8702\u871c\u6ab8\u6aac\u8607\u6253",
+            "viewers": "19.4\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42427",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/18/d6d8f7ccbe2003a3985218dc711tcem5.JPG",
+            "update_time": "03/06 (\u56db) 00:55"
+        },
+        "Re\uff1a\u5f9e\u96f6\u958b\u59cb\u7684\u7570\u4e16\u754c\u751f\u6d3b \u7b2c\u4e09\u5b63": {
+            "name": "Re\uff1a\u5f9e\u96f6\u958b\u59cb\u7684\u7570\u4e16\u754c\u751f\u6d3b \u7b2c\u4e09\u5b63",
+            "viewers": "312.4\u842c",
+            "episode": "\u7b2c13\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42429",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/87/75e140d5b34f0b58c420700cc71tcgj5.JPG",
+            "update_time": "03/05 (\u4e09) 22:30"
+        },
+        "\u9072\u65e9\u662f\u6700\u5f37\u7684\u934a\u91d1\u8853\u5e2b\uff1f": {
+            "name": "\u9072\u65e9\u662f\u6700\u5f37\u7684\u934a\u91d1\u8853\u5e2b\uff1f",
+            "viewers": "116.7\u842c",
+            "episode": "\u7b2c10\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42431",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/58/359dfafd4d08b755ea9e742b7b1tcii5.JPG",
+            "update_time": "03/05 (\u4e09) 21:30"
+        },
+        "\u5728\u5730\u4e0b\u57ce\u5c0b\u6c42\u9082\u9005\u662f\u5426\u641e\u932f\u4e86\u4ec0\u9ebc \u7b2c\u4e94\u5b63": {
+            "name": "\u5728\u5730\u4e0b\u57ce\u5c0b\u6c42\u9082\u9005\u662f\u5426\u641e\u932f\u4e86\u4ec0\u9ebc \u7b2c\u4e94\u5b63",
+            "viewers": "295.7\u842c",
+            "episode": "\u7b2c15\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=41972",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/44/bd8932f6167f12b8e802aea29d1tci45.JPG",
+            "update_time": "03/05 (\u4e09) 21:00"
+        },
+        "\u7fa4\u82b1\u7dbb\u653e\u3001\u5f77\u5982\u4fee\u7f85": {
+            "name": "\u7fa4\u82b1\u7dbb\u653e\u3001\u5f77\u5982\u4fee\u7f85",
+            "viewers": "18.2\u842c",
+            "episode": "\u7b2c9\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42432",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/99/dfbf2ead41b7da4ee5876d7a031tc075.JPG",
+            "update_time": "03/05 (\u4e09) 01:35"
+        },
+        "\u91d1\u8089\u4eba \u5b8c\u7f8e\u8d85\u4eba\u59cb\u7956\u7bc7 Season 2": {
+            "name": "\u91d1\u8089\u4eba \u5b8c\u7f8e\u8d85\u4eba\u59cb\u7956\u7bc7 Season 2",
+            "viewers": "5.1\u842c",
+            "episode": "\u7b2c19\u96c6",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42365",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/38/001e3199a7f63cd432410fc7031tb3y5.JPG",
+            "update_time": "03/02 (\u65e5) 23:30"
         },
         "\u5e73\u51e1\u8077\u696d\u9020\u5c31\u4e16\u754c\u6700\u5f37 \u7b2c\u4e09\u5b63": {
             "name": "\u5e73\u51e1\u8077\u696d\u9020\u5c31\u4e16\u754c\u6700\u5f37 \u7b2c\u4e09\u5b63",
-            "viewers": "188.3\u842c",
+            "viewers": "192\u842c",
             "episode": "\u7b2c16\u96c6",
             "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42098",
             "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/06/bd2a9254e6327eb6a96cb3ed831t5zq5.JPG",
             "update_time": "02/17 (\u4e00) 23:00"
+        },
+        "\u6a5f\u52d5\u6230\u58eb\u92fc\u5f48 SEED FREEDOM": {
+            "name": "\u6a5f\u52d5\u6230\u58eb\u92fc\u5f48 SEED FREEDOM",
+            "viewers": "4.9\u842c",
+            "episode": "",
+            "url": "https://ani.gamer.com.tw/animeVideo.php?sn=42455",
+            "thumbnail_url": "https://p2.bahamut.com.tw/B/2KU/96/54e6cc4bf6cfe154c63a54379a1t8oo5.JPG",
+            "update_time": "\u5176\u4ed6"
         }
     },
     "schedule": {
@@ -358,219 +358,219 @@
             [
                 "13:50",
                 "\u8f49\u751f\u6210\u8c93\u54aa\u7684\u5927\u53d4",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42105"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42363"
             ],
             [
                 "22:00",
                 "\u9019\u516c\u53f8\u6709\u6211\u559c\u6b61\u7684\u4eba",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42104"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42449"
             ],
             [
                 "22:30",
                 "\u9b54\u6cd5\u4f7f\u7684\u7d04\u5b9a",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42102"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42447"
             ],
             [
                 "22:30",
                 "\u5e73\u51e1\u4e0a\u73ed\u65cf\u5230\u7570\u4e16\u754c\u7576\u4e0a\u4e86\u56db\u5929\u738b\u7684\u6545\u4e8b",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42100"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42445"
             ]
         ],
         "\u9031\u4e8c": [
             [
                 "22:00",
                 "\u5996\u602a\u5b78\u6821\u7684\u83dc\u9ce5\u8001\u5e2b",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42434"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42686"
             ],
             [
                 "23:00",
                 "\u7d50\u7de3\u7518\u795e\u795e\u793e",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42163"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42683"
             ]
         ],
         "\u9031\u4e09": [
             [
                 "01:35",
                 "\u7fa4\u82b1\u7dbb\u653e\u3001\u5f77\u5982\u4fee\u7f85",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42162"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42432"
             ],
             [
                 "21:30",
                 "\u9072\u65e9\u662f\u6700\u5f37\u7684\u934a\u91d1\u8853\u5e2b\uff1f",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42430"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42431"
             ],
             [
                 "22:30",
                 "Re\uff1a\u5f9e\u96f6\u958b\u59cb\u7684\u7570\u4e16\u754c\u751f\u6d3b \u7b2c\u4e09\u5b63",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42428"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42429"
             ]
         ],
         "\u9031\u56db": [
             [
                 "00:55",
                 "\u9752\u6625\u7279\u8abf\u8702\u871c\u6ab8\u6aac\u8607\u6253",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42426"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42427"
             ],
             [
                 "01:00",
                 "\u5929\u4e45\u9df9\u592e\u7684\u63a8\u7406\u75c5\u6b77\u8868",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42548"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42549"
             ],
             [
                 "22:00",
                 "Dr.STONE \u65b0\u77f3\u7d00 \u7b2c\u56db\u5b63",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42424"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42425"
             ],
             [
                 "22:00",
                 "BanG Dream! Ave Mujica",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42422"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42423"
             ],
             [
                 "22:30",
                 "\u4e0d\u5e78\u8077\u696d\u3010\u9451\u5b9a\u58eb\u3011\u5176\u5be6\u662f\u6700\u5f37\u7684",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42420"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42421"
             ]
         ],
         "\u9031\u4e94": [
             [
                 "00:00",
                 "\u4e2d\u5e74\u5927\u53d4\u8f49\u751f\u53cd\u6d3e\u5343\u91d1",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42418"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42419"
             ],
             [
                 "00:30",
                 "MOMENTARY LILY \u524e\u90a3\u4e4b\u82b1",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42416"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42417"
             ],
             [
                 "00:58",
                 "\u4e00\u5146\uff04\u904a\u6232",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42414"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42415"
             ],
             [
                 "01:00",
                 "\u7d42\u7a76\uff0c\u8207\u4f60\u76f8\u6200\u3002",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42412"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42413"
             ],
             [
                 "01:25",
                 "\u795e\u528d\u95d6\u6c5f\u6e56 \u2015\u660e\u6cbb\u528d\u5ba2\u6d6a\u6f2b\u8b5a\u2015 \u4eac\u90fd\u52d5\u4e82",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42410"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42411"
             ],
             [
                 "16:00",
                 "\u5361\u7247\u6230\u9b25!! \u5148\u5c0e\u8005 Divinez \u7b2c\u4e09\u5b63\u300cDELUXE\u7bc7\u300d",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42148"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42407"
             ],
             [
                 "22:00",
                 "\u6b61\u8fce\u4f86\u5230\u65e5\u672c\uff0c\u5996\u7cbe\u5c0f\u59d0\u3002",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42405"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42406"
             ],
             [
                 "22:30",
                 "\u9ec3\u660f\u65c5\u5e97",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42403"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42404"
             ],
             [
                 "22:30",
                 "FARMAGIA \u9b54\u8fb2\u50b3\u8a18",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42401"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42402"
             ]
         ],
         "\u9031\u516d": [
             [
                 "00:00",
                 "\u6211\u548c\u73ed\u4e0a\u6700\u8a0e\u53ad\u7684\u5973\u751f\u7d50\u5a5a\u4e86\u3002",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42399"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42400"
             ],
             [
                 "00:30",
                 "\u96d6\u7136\u662f\u516c\u6703\u7684\u6ac3\u6aaf\u5c0f\u59d0\uff0c\u4f46\u56e0\u70ba\u4e0d\u60f3\u52a0\u73ed\u6240\u4ee5\u6253\u7b97\u7368\u81ea\u8a0e\u4f10\u8ff7\u5bae\u982d\u76ee",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42397"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42398"
             ],
             [
                 "01:00",
                 "\u4e00\u687f\u9752\u7a7a",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42395"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42396"
             ],
             [
                 "02:23",
                 "\u51cd\u724c~\u5730\u4e0b\u9ebb\u5c07\u9b25\u724c\u9304~",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42393"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42394"
             ],
             [
                 "18:00",
                 "\u9752\u4e4b\u58ec\u751f\u6d6a",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42391"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42392"
             ],
             [
                 "22:00",
                 "S \u7d1a\u602a\u7378\u300a\u8c9d\u5e0c\u6469\u65af\u300b\u88ab\u8aa4\u8a8d\u6210\u5c0f\u8c93\uff0c\u6210\u70ba\u7cbe\u9748\u5973\u5b69\u7684\u9a0e\u58eb\uff08\u5bf5\u7269\uff09\u4e00\u8d77\u751f\u6d3b",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42129"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42390"
             ]
         ],
         "\u9031\u65e5": [
             [
                 "00:00",
                 "UniteUp! \u773e\u661f\u9f4a\u805a -Uni:Birth-",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42127"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42388"
             ],
             [
                 "00:30",
                 "\u96e2\u958b A \u7d1a\u968a\u4f0d\u7684\u6211\uff0c\u548c\u5f9e\u524d\u7684\u5f1f\u5b50\u5f80\u8ff7\u5bae\u6df1\u8655\u9081\u9032",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42125"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42387"
             ],
             [
                 "00:30",
                 "\u6211\u7368\u81ea\u5347\u7d1a \u7b2c\u4e8c\u5b63 \uff0d\u8d77\u65bc\u95c7\u5f71\uff0d",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42123"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42385"
             ],
             [
                 "00:30",
                 "\u6211\u8207\u5c3c\u7279\u5973\u5fcd\u8005\u7684\u83ab\u540d\u540c\u5c45\u751f\u6d3b",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42121"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42383"
             ],
             [
                 "01:00",
                 "\u9752\u4e4b\u9a45\u9b54\u5e2b \u7d42\u591c\u7bc7",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42119"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42381"
             ],
             [
                 "01:00",
                 "\u5728\u6c96\u7e69\u559c\u6b61\u4e0a\u7684\u5973\u5b69\u65b9\u8a00\u8b1b\u5f97\u592a\u904e\u4ee4\u4eba\u56f0\u64fe",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42117"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42379"
             ],
             [
                 "16:30",
                 "\u9999\u683c\u91cc\u62c9\u30fb\u958b\u62d3\u7570\u5883\uff5e\u7cde\u4f5c\u7375\u624b\u6311\u6230\u795e\u4f5c\uff5e \u7b2c\u4e8c\u5b63",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42115"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42377"
             ],
             [
                 "16:30",
                 "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u541b \u7b2c\u4e8c\u5b63",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42113"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42375"
             ],
             [
                 "17:00",
                 "\u9b54\u795e\u5275\u9020\u50b3",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42371"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42373"
             ],
             [
                 "21:00",
                 "\u6211\u60f3\u8e7a\u6389\u592a\u5b50\u5983\u57f9\u8a13",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42110"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42370"
             ],
             [
                 "22:00",
                 "\u8d85\u8d85\u8d85\u8d85\u8d85\u559c\u6b61\u4f60\u7684 100 \u500b\u5973\u670b\u53cb",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42108"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42368"
             ],
             [
                 "23:30",
                 "\u91d1\u8089\u4eba \u5b8c\u7f8e\u8d85\u4eba\u59cb\u7956\u7bc7 Season 2",
-                "https://ani.gamer.com.tw/animeVideo.php?sn=42364"
+                "https://ani.gamer.com.tw/animeVideo.php?sn=42365"
             ]
         ]
     }

@@ -4,6 +4,7 @@ from logging.handlers import TimedRotatingFileHandler
 import os
 from pathlib import Path
 import shutil
+
 import discord
 from discord.ext import commands
 
@@ -22,7 +23,7 @@ handler.suffix = "%Y-%m-%d_%H-%M-%S.log"
 handler.setFormatter(logging.Formatter('[%(asctime)s] [%(levelname)-8s] %(name)s: %(message)s', "%Y-%m-%d %H:%M:%S"))
 
 logger = logging.getLogger('discord')
-logger.setLevel(logging.DEBUG)
+logger.setLevel(logging.INFO)
 logger.addHandler(handler)
 ###################################################################
 

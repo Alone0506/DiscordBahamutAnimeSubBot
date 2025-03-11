@@ -45,12 +45,12 @@ class Bahamut(commands.Cog):
     
     def __init__(self, bot: commands.Bot):
         self.bot = bot
-        self.bahamut_db = BahamutDB()
+        self.bahamut_db = BahamutDB(ANIME2USERS_FILE_PATH, USER2ANIMES_FILE_PATH, BAHAMUT_WEB_INFO_FILE_PATH)
         self.bahamut_api = BahamutAPI(TEST_MODE)
-        self.update_db.start()
+        self.loop_update.start()
         
     def cog_unload(self):
-        self.update_db.cancel()
+        self.loop_update.cancel()
         
     @app_commands.command(name = "anime_help", description = "查看指令功能與使用方式")
     async def anime_help(self, interaction: discord.Interaction):
@@ -187,12 +187,11 @@ class Bahamut(commands.Cog):
         await interaction.response.send_message(f"{user_name} {operation.value}scribe {anime_name} done.")
 
     @tasks.loop(time=time)
-    async def update_db(self):
+    async def loop_update(self):
         old_infos = self.bahamut_db.get_infos()
-        res = self.bahamut_api.run_spider()
+        res, new_infos, new_schedule = self.update_db()
         if res is False:
-            logger.warning('get anime information from Bahamut failed, skip update bahamut channel...')
-        new_infos = self.bahamut_api.get_newest_anime_infos()
+            return
         
         # compare old_infos and new_infos to know which anime is updated
         update_animes: dict[str, dict[str, str]] = {}
@@ -200,13 +199,20 @@ class Bahamut(commands.Cog):
             if anime_name in new_infos and anime_infos["update_time"] != new_infos[anime_name]["update_time"]:
                 update_animes[anime_name] = new_infos[anime_name]
         
-        dm = self.create_dm(update_animes)
-        await self.send_dm(dm)
-                
-        self.bahamut_db.save_infos(new_infos)
-        self.bahamut_db.save_schedule(self.bahamut_api.get_newest_anime_schedule())
+        dm_list = self.create_dm_list(update_animes)
+        await self.send_dm(dm_list)
         
-    def create_dm(self, update_animes: dict[str, dict[str, str]]) -> dict[str, list[Channel_Embed]]:
+    def update_db(self) -> tuple[bool, dict[str, dict[str, str]], dict[str, list[list[str]]]]:
+        res, new_infos, new_schedule = self.bahamut_api.run_spider()
+        if res is False:
+            logger.warning('get anime information from Bahamut failed, skip update bahamut channel...')
+        else:
+            self.bahamut_db.save_infos(new_infos)
+            self.bahamut_db.save_schedule(new_schedule)
+        return res, new_infos, new_schedule
+        
+        
+    def create_dm_list(self, update_animes: dict[str, dict[str, str]]) -> dict[str, list[Channel_Embed]]:
         dm: dict[str, list[Channel_Embed]] = {}  # key: user_id, value: [anime_info_embed, ...]
         with ANIME2USERS_FILE_PATH.open('r', encoding='utf-8') as f:
             data = json.load(f)
@@ -219,8 +225,8 @@ class Bahamut(commands.Cog):
                     dm[user_id].append(Channel_Embed(infos))
         return dm
         
-    async def send_dm(self, dm: dict[str, list[Channel_Embed]]) -> None:
-        for user_id, embeds in dm.items():
+    async def send_dm(self, dm_list: dict[str, list[Channel_Embed]]) -> None:
+        for user_id, embeds in dm_list.items():
             user = self.bot.get_user(int(user_id))
             if user is None:
                 continue
@@ -231,8 +237,9 @@ class Bahamut(commands.Cog):
                 if i == 0:
                     await user.send(content=content, embeds=embeds[i:i+10])
     
-    @update_db.before_loop
+    @loop_update.before_loop
     async def wait_bot_ready(self):
+        self.update_db()
         await self.bot.wait_until_ready()
 
 
