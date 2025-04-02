@@ -48,3 +48,8 @@
 | `/anime_sub_list`     | 查看你的訂閱動漫列表                     |
 | `/anime operation:<Subscribe/Unsubscribe> anime_name:<name>` | 訂閱或取消訂閱指定動漫 |
 | `/anime_unsub_all`    | 取消訂閱所有動漫                         |
+
+## Reference
+1. [[Python爬蟲實例] 巴哈姆特 動畫瘋：新手入門基礎網路爬蟲教學](https://blog.jiatool.com/posts/gamer_ani_spider/)
+2. [Discord.py API Reference](https://discordpy.readthedocs.io/en/stable/api.html)
+3. [Beautiful Soup 4.12.0 Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)
